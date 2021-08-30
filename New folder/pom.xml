@@ -3,6 +3,7 @@
   <groupId>TestJenkins</groupId>
   <artifactId>TestJenkins</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+
 <dependencies>
 	<dependency>
 		<groupId>org.seleniumhq.selenium</groupId>
