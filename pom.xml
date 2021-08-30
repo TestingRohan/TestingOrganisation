@@ -3,7 +3,12 @@
   <groupId>TestJenkins</groupId>
   <artifactId>TestJenkins</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <parent>
+<groupId>TestJenkins</groupId>
+  <artifactId>TestJenkins</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
   <relativePath>pom.xml</relativePath>
+ </parent>
 <dependencies>
 	<dependency>
 		<groupId>org.seleniumhq.selenium</groupId>
