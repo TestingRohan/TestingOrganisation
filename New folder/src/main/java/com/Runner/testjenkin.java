@@ -21,6 +21,7 @@ public class testjenkin {
 		List<WebElement> we = driver.findElements(By.xpath("//*[@id='content-wrapper']/aside/nav/ul/li[1]/a"));
 		System.out.println(name);
 		if(we.size()>0) {
+			
 			Assert.assertTrue(true);
 		}
 		else {
