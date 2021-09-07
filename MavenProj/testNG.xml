@@ -4,5 +4,7 @@
     <classes>
       <class name="main.java.com.Runner.RunnerClass"/>
     </classes>
+    
+    
   </test> <!-- Test -->
 </suite> <!-- Suite -->
